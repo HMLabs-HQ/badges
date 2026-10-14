@@ -1,11 +1,11 @@
 {
-	"name": "@intergrav/devins-badges",
-	"version": "3.3.1",
+	"name": "@henrymmey/badges",
+	"version": "3.3.2",
 	"description": "Beautifully designed badges for many services.",
 	"license": "CC0-1.0",
-	"homepage": "https://intergrav.github.io/devins-badges-docs/",
-	"repository": "intergrav/devins-badges",
-	"bugs": "https://github.com/intergrav/devins-badges/issues",
+	"homepage": "https://henrymmey.github.io/badges-docs/",
+	"repository": "henrymmey/badges",
+	"bugs": "https://github.com/henrymmey/badges/issues",
 	"keywords": [
 		"badges",
 		"documentation"
