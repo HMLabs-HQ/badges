@@ -1,13 +1,13 @@
 {
-	"name": "@henrymmey/badges",
-	"version": "3.3.2",
-	"description": "Beautifully designed badges for many services.",
-	"license": "CC0-1.0",
-	"homepage": "https://henrymmey.github.io/badges-docs/",
-	"repository": "henrymmey/badges",
-	"bugs": "https://github.com/henrymmey/badges/issues",
-	"keywords": [
-		"badges",
-		"documentation"
-	]
+  "name": "@henrymmey/badges",
+  "version": "3.4.0",
+  "description": "Beautifully designed badges for many services.",
+  "license": "CC0-1.0",
+  "homepage": "https://henrymmey.github.io/badges-docs/",
+  "repository": "henrymmey/badges",
+  "bugs": "https://github.com/henrymmey/badges/issues",
+  "keywords": [
+    "badges",
+    "documentation"
+  ]
 }
