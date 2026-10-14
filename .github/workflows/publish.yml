@@ -1,9 +1,8 @@
 name: Publish to npm
 
 on:
-  push:
-    tags:
-      - "v*"
+  release:
+    types: [published]
 
 permissions:
   id-token: write
@@ -27,5 +26,5 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Publish
+      - name: Publish to npm
         run: npm publish
