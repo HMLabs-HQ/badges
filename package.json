@@ -3,9 +3,9 @@
   "version": "3.5.2",
   "description": "Beautifully designed badges for many services.",
   "license": "CC0-1.0",
-  "homepage": "https://henrymmey.github.io/badges-docs/",
-  "repository": "henrymmey/badges",
-  "bugs": "https://github.com/henrymmey/badges/issues",
+  "homepage": "https://badges.hmlabs.eu",
+  "repository": "HMLabs-HQ/badges",
+  "bugs": "https://github.com/HMLabs-HQ/badges/issues",
   "keywords": [
     "badges",
     "documentation"
